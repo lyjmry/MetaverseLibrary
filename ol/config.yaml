@@ -1,0 +1,18 @@
+BasicCfg:
+
+  # required only one email address
+  User: xxxx@email.com
+  
+  # Password: user password
+  Password: p<fN)rbQ!5Ws
+  
+  # required xxxx@email.com,xxxx@email.com
+  SendEmail: xxxx@email.com,xxxx@email.com
+  
+  # Title:
+  Title: email title
+  
+  # Content: 
+  Content: email content
+  
+
