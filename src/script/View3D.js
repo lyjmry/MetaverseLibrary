@@ -6,10 +6,10 @@ import { FBXLoader } from "three/examples/jsm/loaders/FBXLoader";
 import { TextGeometry } from "three/examples/jsm/geometries/TextGeometry";
 import { FontLoader } from "three/examples/jsm/loaders/FontLoader";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import { ARButton } from "../../../yuan-universe2/src/script/ARButtonChange";
+// import { ARButton } from "../../../yuan-universe2/src/script/ARButtonChange";
 
 import { XRControllerModelFactory } from "three/examples/jsm/webxr/XRControllerModelFactory";
-import { VRButton } from "../../../yuan-universe2/src/script/VRButton";
+// import { VRButton } from "../../../yuan-universe2/src/script/VRButton";
 
 import { DRACOLoader } from "three/examples/jsm/loaders/DRACOLoader";
 import { USDZExporter } from "three/examples/jsm/exporters/USDZExporter";

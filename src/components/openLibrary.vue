@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { onBeforeUnmount, onMounted } from "_vue@3.2.37@vue";
+import { onBeforeUnmount, onMounted } from "vue";
 import VueScene from "../script/View3D";
 import * as THREE from "three";
 import Particles from "../script/ParticleSystem2/ParticleEngine";

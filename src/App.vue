@@ -10,6 +10,9 @@
   <div class="views">
     <router-view></router-view>
   </div>
+  <div>
+    <a>这是测试一下是否展示了这个页面</a>
+  </div>
 </template>
 
 <style>
